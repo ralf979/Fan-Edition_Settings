@@ -47,7 +47,7 @@ public class LockscreenItems extends SettingsPreferenceFragment
 
     @Override
     public boolean onPreferenceChange(Preference preference, Object newValue) {
-        return false;
+    	return false;
     }
 
     @Override
