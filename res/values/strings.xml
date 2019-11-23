@@ -262,5 +262,9 @@
     <string name="qs_rows_landscape_title">Tiles rows on landscape</string>
     <string name="qs_columns_portrait_title">Tiles columns on portrait</string>
     <string name="qs_columns_landscape_title">Tiles columns on landscape</string>
-</resources>
 
+    <!-- Charging animation -->
+    <string name="lockscreen_charging_animation_title">Charging animation</string>
+    <string name="lockscreen_charging_animation_summary">Display an animation when the device is plugged in</string>
+    
+</resources>
