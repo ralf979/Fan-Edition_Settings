@@ -254,5 +254,9 @@
     <string name="qs_media_player_title">Media player</string>
     <string name="qs_media_player_summary_on">Show media player in QS\nRequires a SystemUI restart</string>
     <string name="qs_media_player_summary_off">Show media player as a notification\nRequires a SystemUI restart</string>
-</resources>
 
+    <!-- Charging animation -->
+    <string name="lockscreen_charging_animation_title">Charging animation</string>
+    <string name="lockscreen_charging_animation_summary">Display an animation when the device is plugged in</string>
+    
+</resources>

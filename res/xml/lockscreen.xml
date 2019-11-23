@@ -57,4 +57,10 @@
             android:fragment="com.raven.lair.fragments.FODFragment" />
 
         </PreferenceCategory>
+
+        <com.android.settings.custom.preference.SystemSettingSwitchPreference
+            android:key="lockscreen_charging_animation"
+            android:title="@string/lockscreen_charging_animation_title"
+            android:summary="@string/lockscreen_charging_animation_summary"
+            android:defaultValue="false" />
 </PreferenceScreen>
