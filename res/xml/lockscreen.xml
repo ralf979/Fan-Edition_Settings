@@ -43,4 +43,10 @@
 	android:defaultValue="false" />
 	</PreferenceCategory>
 
+    <!-- FOD recognizing animation -->
+    <com.corvus.support.preferences.SystemSettingSwitchPreference
+            android:key="fod_recognizing_animation"
+            android:title="@string/fod_recog_animation"
+            android:summary="@string/fod_recog_animation_summary"
+            android:defaultValue="false" />
 </PreferenceScreen>

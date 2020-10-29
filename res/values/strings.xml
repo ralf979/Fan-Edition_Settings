@@ -143,4 +143,8 @@
     <!-- Fingerprint unlock -->
     <string name="fp_unlock_keystore_title">Force FP authentication</string>
     <string name="fp_unlock_keystore_summary">Unlock device with fingerprint after reboot or lockdown</string>
+    
+    <!-- FOD animations -->
+    <string name="fod_recog_animation">FOD recognizing animation</string>
+    <string name="fod_recog_animation_summary">Shows an animation while reading your finger</string>
 </resources>
