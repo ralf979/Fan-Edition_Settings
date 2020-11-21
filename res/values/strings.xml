@@ -121,7 +121,7 @@
     <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
     <string name="lockscreen_battery_info_summary">Show charging current, voltage, wattage and battery temperature on lockscreen while charging</string>
 
-<!-- Long press power for torch -->
+    <!-- Long press power for torch -->
     <string name="torch_long_press_power_gesture_title">Screen off power button torch</string>
     <string name="torch_long_press_power_gesture_desc">Long press power button while the screen is off to turn on the flashlight</string>
     <string name="torch_long_press_power_timeout_title">Automatically turn torch off</string>
@@ -143,4 +143,9 @@
     <!-- Fingerprint unlock -->
     <string name="fp_unlock_keystore_title">Force FP authentication</string>
     <string name="fp_unlock_keystore_summary">Unlock device with fingerprint after reboot or lockdown</string>
+
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
+    <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader</string>
+    <string name="power_menu_advanced_category">Advanced</string>
 </resources>
